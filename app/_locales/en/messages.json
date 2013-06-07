@@ -4,7 +4,7 @@
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "Reuse an open tab for a given url instead of creating a new one",
+    "message": "Reuse an open tab for a localhost url instead of creating a new one",
     "description": "The description of the application"
   }
 }
