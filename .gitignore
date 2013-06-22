@@ -2,6 +2,6 @@ node_modules
 temp
 .tmp
 dist
-package
+package/
 .sass-cache
 app/bower_components
